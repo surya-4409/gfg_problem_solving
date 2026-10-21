@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 2 | 0 | 2 | 0 | - |
-| GeeksforGeeks | 11 | 2 | 4 | 0 | 5 |
-| **Total** | **13** | **2** | **6** | **0** | **5** |
+| GeeksforGeeks | 12 | 2 | 5 | 0 | 5 |
+| **Total** | **14** | **2** | **7** | **0** | **5** |
 
 ## Solved Problems
 
@@ -25,9 +25,10 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 6 | [Peak element](https://practice.geeksforgeeks.org/problems/peak-element/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_PeakElement.java) |
 | 7 | [Remove Cycle in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RemoveCycleInLinkedList.java) |
 | 8 | [Smallest Positive Missing](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SmallestPositiveMissing.java) |
-| 9 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_Factorial.java) |
-| 10 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
-| 11 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
-| 12 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 13 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
+| 9 | [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_StockSpanProblem.java) |
+| 10 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_Factorial.java) |
+| 11 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
+| 12 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
+| 13 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 14 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
 <!-- COMMITDSA_END -->
