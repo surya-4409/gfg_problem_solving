@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 1 | 3 | 1 | - |
-| GeeksforGeeks | 17 | 4 | 7 | 1 | 5 |
-| **Total** | **22** | **5** | **10** | **2** | **5** |
+| GeeksforGeeks | 18 | 4 | 7 | 1 | 6 |
+| **Total** | **23** | **5** | **10** | **2** | **6** |
 
 ## Solved Problems
 
@@ -39,4 +39,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 20 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
 | 21 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
 | 22 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
+| 23 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
 <!-- COMMITDSA_END -->
