@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 7 | 3 | 3 | 1 | - |
-| GeeksforGeeks | 19 | 4 | 8 | 1 | 6 |
-| **Total** | **26** | **7** | **11** | **2** | **6** |
+| GeeksforGeeks | 20 | 4 | 9 | 1 | 6 |
+| **Total** | **27** | **7** | **12** | **2** | **6** |
 
 ## Solved Problems
 
@@ -36,11 +36,12 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 17 | [Smallest Positive Missing](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_SmallestPositiveMissing.java) |
 | 18 | [Stack using Queue](https://practice.geeksforgeeks.org/problems/stack-using-queue/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_StackUsingQueue.java) |
 | 19 | [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_StockSpanProblem.java) |
-| 20 | [Histogram Max Rectangular Area](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_HistogramMaxRectangularArea.java) |
-| 21 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_Factorial.java) |
-| 22 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
-| 23 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
-| 24 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 25 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
-| 26 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
+| 20 | [Stream First Non-Repeating](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_StreamFirstNonRepeating.java) |
+| 21 | [Histogram Max Rectangular Area](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_HistogramMaxRectangularArea.java) |
+| 22 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_Factorial.java) |
+| 23 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
+| 24 | [Is Linked List Length Even](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IsLinkedListLengthEven.java) |
+| 25 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 26 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
+| 27 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
 <!-- COMMITDSA_END -->
